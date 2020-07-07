@@ -1,0 +1,7 @@
+Country,Sub-national region,latitude,longitude,ISO country code,World region,MPI_Country,MPI_Region,PercPoverty,DepvrIntensity,location_type,latlngImputed,useforspatial,popDensity,precipitation,TimeToCity,AvgNightLight,LandClassification,Elevation,Temperature,Evaporation,Modis_LAI,Modis_EVI,soil_orgc,soil_phaq,soil_clay,soil_silt,soil_sand,Conflicts_total,Conflicts_totalDeaths,Conflicts_totalDeathsCivilians
+Zimbabwe,Mashonaland East,-18.5871642,31.2626366,ZWE,Sub-Saharan Africa,0.152,0.14,33.5,41.9,APPROXIMATE,0,1,28.4599990844727,665,136,0,30,1386,30,5469,10,2654,,,,,,0,0,0
+Zimbabwe,Mashonaland West,-17.4851029,29.7889248,ZWE,Sub-Saharan Africa,0.152,0.192,43.7,44.1,APPROXIMATE,0,1,21.8333339691162,759,206,0,30,1037,32,5383,11,2769,,,,,,0,0,0
+Zimbabwe,Masvingo,-20.0791909,30.8384093,ZWE,Sub-Saharan Africa,0.152,0.174,38.9,44.7,APPROXIMATE,0,1,41.5,605,1,17,190,1073,32,,,2542,,,,,,0,0,0
+Zimbabwe,Matabeleland North,-18.5331566,27.5495846,ZWE,Sub-Saharan Africa,0.152,0.238,53.4,44.5,APPROXIMATE,0,1,8.18666648864746,643,362,0,130,1005,32,4209,10,2900,,,,,,0,0,0
+Zimbabwe,Matabeleland South,-21.052337,29.0459927,ZWE,Sub-Saharan Africa,0.152,0.164,38.2,42.8,APPROXIMATE,0,1,13,481.5,325,0,130,954,30,3154,12,2753,,,,,,0,0,0
+Zimbabwe,Midlands,-19.0552009,29.6035495,ZWE,Sub-Saharan Africa,0.152,0.176,40.5,43.5,APPROXIMATE,0,1,36.6666679382324,610.5,59,0,130,1300,29,5652,12,2826,,,,,,0,0,0
